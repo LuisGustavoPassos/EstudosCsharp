@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisg\\source\\repos\\EstudosCsharp\\ConsoleApp\\EstudosCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\EstudosCsharp.csproj",
       "projectName": "EstudosCsharp",
-      "projectPath": "C:\\Users\\luisg\\source\\repos\\EstudosCsharp\\ConsoleApp\\EstudosCsharp.csproj",
+      "projectPath": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\EstudosCsharp.csproj",
       "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisg\\source\\repos\\EstudosCsharp\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1jq6mTu8UII=",
+  "dgSpecHash": "17Z3sFsLIRE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisg\\source\\repos\\EstudosCsharp\\ConsoleApp\\EstudosCsharp.csproj",
+  "projectFilePath": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\EstudosCsharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisg\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
   ],
