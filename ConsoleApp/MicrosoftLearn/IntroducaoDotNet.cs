@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 /*
 Este programa se refere ao roteiro de aprendizagem "Criar aplicativos .NET com C#" do Microsoft Learn
  */
-namespace ConsoleApp.Csharp.MicrosoftLearn
+namespace EstudosCsharp.MicrosoftLearn
 {
     internal class IntroducaoDotNet
     {

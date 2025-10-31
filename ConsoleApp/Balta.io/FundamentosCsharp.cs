@@ -8,7 +8,7 @@ este programa se refere as atividades passadas como "mão na massa" do curso bal
     mudulo: Fundamentos do C#
 */
 
-namespace ConsoleApp.Csharp.Balta.io
+namespace EstudosCsharp.Balta.io
 {
     
     public class FundamentosCsharp

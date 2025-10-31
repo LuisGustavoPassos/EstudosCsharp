@@ -1,5 +1,5 @@
-﻿using ConsoleApp.Csharp.Balta.io;
-using ConsoleApp.Csharp.MicrosoftLearn;
+﻿using EstudosCsharp.Balta.io;
+using EstudosCsharp.MicrosoftLearn;
 using Microsoft.VisualBasic.FileIO;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp.Csharp
+namespace EstudosCsharp
 {
     internal class Program
     {

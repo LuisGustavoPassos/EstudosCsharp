@@ -49,9 +49,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\EstudosCsharp.csproj",
+      "projectName": "EstudosCsharp",
+      "projectPath": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\EstudosCsharp.csproj",
       "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\luisg\\source\\repos\\IntroducaoCsharp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
